@@ -1,0 +1,7 @@
+PASS
+Unity 6000.2.14f1
+Catalog: 16 variables
+Default u6(T): 0,508274368472779
+Stylesheet: loaded
+All six screens: constructed
+Invalid input and disabled-link regression: passed

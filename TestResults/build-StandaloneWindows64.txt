@@ -1,0 +1,5 @@
+Result: Succeeded
+Errors: 0
+Warnings: 0
+Duration: 00:00:15.2138084
+Output: C:\Users\User\Desktop\Лааба 2\UnityValidation\Builds\Windows\MobilityCalculator.exe

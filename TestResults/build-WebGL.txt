@@ -1,0 +1,5 @@
+Result: Succeeded
+Errors: 0
+Warnings: 0
+Duration: 00:03:00.9494192
+Output: C:\Users\User\Desktop\Лааба 2\UnityValidation\Builds\WebGL

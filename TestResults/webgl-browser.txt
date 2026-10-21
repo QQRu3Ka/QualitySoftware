@@ -1,0 +1,10 @@
+PASS - WebGL browser smoke check, 2026-10-21
+Unity 6000.2.14f1; build Succeeded, 0 errors, 0 warnings.
+Chrome, 1440x900 viewport, local HTTP server.
+All six screens rendered. Calculate: u6(T)=0.508274, 1000 steps.
+Dynamics, disturbance chart and end-time radar inspected.
+JavaScript page errors: 0.
+Headless GPU reports unsupported unused CoreCopy/HDRDebugView shaders; UI and charts render correctly.
+Build source: sibling UnityValidation, Assets/Mobility identical to Lab2.
+Delivered files: Lab2/Builds/WebGL. Viewport CSS expanded to full window.
+No public hosting deployment performed.
